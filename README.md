@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning ... fullstack bootcamp with Tech Elevator
+- 📫 How to reach me: ... https://www.linkedin.com/in/steve-her/
