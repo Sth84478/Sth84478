@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a994fe3f-bb4e-4d3c-8947-753f4643b2c9" name="Changes" comment="" />
+    <list default="true" id="70fc5871-8235-47e3-8c87-9e5da22a406d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2RUyoFE5kf3ft1IpQOOXoYUrC0w" />
+  <component name="ProjectId" id="2PfIWnQmKVzIsYjJDGedXADLIm9" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -28,19 +25,19 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/Student/workspace/Sth84478/Java"
+    "last_opened_file_path": "C:/Users/Student/workspace/mod1-week7-pair-4/exercise",
+    "settings.editor.selected.configurable": "preferences.rainbow.brackets"
   }
 }]]></component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="util" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Student\workspace\Sth84478\test\src" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="Sth84478" />
+      <module name="test" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -54,11 +51,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a994fe3f-bb4e-4d3c-8947-753f4643b2c9" name="Changes" comment="" />
-      <created>1687319126615</created>
+      <changelist id="70fc5871-8235-47e3-8c87-9e5da22a406d" name="Changes" comment="" />
+      <created>1683841744913</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1687319126615</updated>
+      <updated>1683841744913</updated>
     </task>
     <servers />
   </component>
