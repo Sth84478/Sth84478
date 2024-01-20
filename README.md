@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 - 🌱 I’ve just finished my full-stack bootcamp with tech elevator
-- 📫 How to reach me: ... https://www.linkedin.com/in/steve-her/
+- 📫 How to reach me: ... https://www.linkedin.com/in/steveher/
